@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Brand,Unit_Price
+PROD1000,Stapler,Office Supplies,Brand C,6850.14
+PROD1001,Cookware,Home & Kitchen,Brand B,1117.16
+PROD1002,Cookware,Home & Kitchen,Generic,74112.65
+PROD1003,Sofa,Furniture,Brand B,54409.38
+PROD1004,Cookware,Home & Kitchen,Brand C,12789.75
+PROD1005,Shoes,Fashion,Brand D,8956.58
+PROD1006,Notebook,Office Supplies,Brand C,30121.15
+PROD1007,Smartphone,Electronics,Brand D,37427.64
+PROD1008,T-Shirt,Fashion,Brand A,19621.08
+PROD1009,Watch,Fashion,Brand C,81257.91
+PROD1010,Jacket,Fashion,Brand A,43274.18
+PROD1011,Notebook,Office Supplies,Brand D,21619.21
+PROD1012,Notebook,Office Supplies,Generic,73679.79
+PROD1013,Pen Set,Office Supplies,Brand D,61889.63
+PROD1014,Backpack,Fashion,Brand B,59286.18
+PROD1015,Laptop,Electronics,Brand A,6436.15
+PROD1016,Mixer,Home & Kitchen,Brand C,55960.23
+PROD1017,Camera,Electronics,Brand A,62949.06
+PROD1018,Chair,Furniture,Brand A,71140.82
+PROD1019,Backpack,Fashion,Brand D,66933.83
+PROD1020,Storage Box,Home & Kitchen,Brand D,39609.41
+PROD1021,Watch,Fashion,Generic,35807.19
+PROD1022,File Folder,Office Supplies,Brand C,62735.47
+PROD1023,Sofa,Furniture,Brand A,7485.16
+PROD1024,Tablet,Electronics,Brand A,74443.17
+PROD1025,T-Shirt,Fashion,Generic,56943.93
+PROD1026,Lamp,Home & Kitchen,Brand C,69185.43
+PROD1027,File Folder,Office Supplies,Brand D,7087.69
+PROD1028,Sofa,Furniture,Brand B,59157.08
+PROD1029,Mixer,Home & Kitchen,Brand A,78170.31
+PROD1030,Bookshelf,Furniture,Brand D,69350.04
+PROD1031,Sofa,Furniture,Brand A,53057.72
+PROD1032,Smartphone,Electronics,Brand C,23135.52
+PROD1033,Laptop,Electronics,Brand C,82104.96
+PROD1034,Shoes,Fashion,Brand D,
+PROD1035,File Folder,Office Supplies,Generic,36013.47
+PROD1036,Jacket,Fashion,Brand A,8875.72
+PROD1037,Stapler,Office Supplies,Brand B,1934.66
+PROD1038,File Folder,Office Supplies,Brand A,30528.16
+PROD1039,Sofa,Furniture,Brand C,49242.17
+PROD1040,Chair,Furniture,Brand D,48048.5
+PROD1041,Lamp,Home & Kitchen,Brand B,54285.53
+PROD1042,Camera,Electronics,Brand D,12984.81
+PROD1043,Mixer,Home & Kitchen,Generic,38870.28
+PROD1044,Chair,Furniture,Brand B,12181.14
+PROD1045,Camera,Electronics,Generic,29435.68
+PROD1046,Desk,Furniture,Brand D,33586.67
+PROD1047,Watch,Fashion,Brand B,38607.86
+PROD1048,Jacket,Fashion,Brand C,4152.71
+PROD1049,File Folder,Office Supplies,Brand A,54164.6
+PROD1050,Notebook,Office Supplies,Brand D,2407.95
+PROD1051,Backpack,Fashion,Brand D,52861.43
+PROD1052,Vacuum Cleaner,Home & Kitchen,Brand A,23369.56
+PROD1053,Camera,Electronics,Brand B,42522.15
+PROD1054,Watch,Fashion,Brand B,29058.81
+PROD1055,Mixer,Home & Kitchen,Brand B,6369.07
+PROD1056,Backpack,Fashion,Generic,17832.14
+PROD1057,Cabinet,Furniture,Brand D,3026.42
+PROD1058,Cookware,Home & Kitchen,Generic,82704.16
+PROD1059,T-Shirt,Fashion,Brand D,59117.22
+PROD1060,File Folder,Office Supplies,Brand C,81739.44
+PROD1061,Headphones,Electronics,Brand B,81194.36
+PROD1062,Cabinet,Furniture,Generic,52731.34
+PROD1063,Paper,Office Supplies,Brand C,39060.05
+PROD1064,Stapler,Office Supplies,Brand B,64242.7
+PROD1065,Stapler,Office Supplies,Brand C,68682.47
+PROD1066,Chair,Furniture,Brand D,61211.66
+PROD1067,Pen Set,Office Supplies,Generic,6422.41
+PROD1068,Smartphone,Electronics,Generic,70489.37
+PROD1069,Cabinet,Furniture,Brand A,58774.22
+PROD1070,Lamp,Home & Kitchen,Brand C,49260.07
+PROD1071,Monitor,Electronics,Brand D,18021.07
+PROD1072,Watch,Fashion,Brand B,74022.64
+PROD1073,Desk,Furniture,Brand D,35277.62
+PROD1074,Chair,Furniture,Brand B,24521.62
+PROD1075,Notebook,Office Supplies,Brand C,21826.29
+PROD1076,Printer,Office Supplies,Brand A,36278.39
+PROD1077,Tablet,Electronics,Brand C,14030.63
+PROD1078,Notebook,Office Supplies,Brand D,3052.21
+PROD1079,Pen Set,Office Supplies,Brand D,66796.53
+PROD1080,Cookware,Home & Kitchen,Generic,58040.82
+PROD1081,Watch,Fashion,Brand C,38992.3
+PROD1082,Lamp,Home & Kitchen,Brand C,69062.47
+PROD1083,Vacuum Cleaner,Home & Kitchen,Generic,73636.76
+PROD1084,Smartphone,Electronics,Brand D,31084.6
+PROD1085,T-Shirt,Fashion,Generic,29723.27
+PROD1086,Chair,Furniture,Brand A,53020.17
+PROD1087,Headphones,Electronics,Brand D,79724.25
+PROD1088,File Folder,Office Supplies,Generic,38872.51
+PROD1089,Bookshelf,Furniture,Generic,35614.65
+PROD1090,Smartphone,Electronics,Brand C,32127.38
+PROD1091,T-Shirt,Fashion,Generic,27849.12
+PROD1092,Backpack,Fashion,Brand A,22727.23
+PROD1093,Cabinet,Furniture,Brand B,32743.19
+PROD1094,Mixer,Home & Kitchen,Brand C,13080.47
+PROD1095,Cookware,Home & Kitchen,Generic,65143.27
+PROD1096,Laptop,Electronics,Brand B,4394.9
+PROD1097,Mixer,Home & Kitchen,Brand B,83636.13
+PROD1098,Vacuum Cleaner,Home & Kitchen,Brand C,55054.87
+PROD1099,Storage Box,Home & Kitchen,Brand A,7320.74
+PROD1100,Laptop,Electronics,Brand A,83650.29
+PROD1101,Monitor,Electronics,Brand B,58877.96
+PROD1102,Sofa,Furniture,Brand A,53845.05
+PROD1103,Shoes,Fashion,Brand B,6723.19
+PROD1104,Jacket,Fashion,Brand C,70596.48
+PROD1105,Printer,Office Supplies,Brand D,15986.33
+PROD1106,Shoes,Fashion,Generic,19147.9
+PROD1107,Headphones,Electronics,Generic,26753.11
+PROD1108,Sofa,Furniture,Generic,69279.38
+PROD1109,Storage Box,Home & Kitchen,Brand A,19418.17
+PROD1110,Cookware,Home & Kitchen,Brand D,77582.19
+PROD1111,Cookware,Home & Kitchen,Brand B,52830.32
+PROD1112,Vacuum Cleaner,Home & Kitchen,Brand D,64336.14
+PROD1113,Vacuum Cleaner,Home & Kitchen,Brand C,53710.27
+PROD1114,Watch,Fashion,Generic,606.19
+PROD1115,Camera,Electronics,Brand D,59897.81
+PROD1116,Watch,Fashion,Brand A,10192.77
+PROD1117,Sofa,Furniture,Brand D,65920.45
+PROD1118,Shoes,Fashion,Brand D,46106.73
+PROD1119,Headphones,Electronics,Generic,52201.35
+PROD1120,Cookware,Home & Kitchen,Brand D,68236.81
+PROD1121,Pen Set,Office Supplies,Brand A,48384.12
+PROD1122,Lamp,Home & Kitchen,Brand C,73448.95
+PROD1123,Stapler,Office Supplies,Brand B,18260.37
+PROD1124,Jacket,Fashion,Brand C,24840.89
+PROD1125,Laptop,Electronics,Generic,52215.25
+PROD1126,Jacket,Fashion,Brand D,84767.46
+PROD1127,Lamp,Home & Kitchen,Generic,32843.56
+PROD1128,Jacket,Fashion,Generic,82751.87
+PROD1129,Printer,Office Supplies,Brand A,29205.95
+PROD1130,Notebook,Office Supplies,Brand A,53609.12
+PROD1131,Mixer,Home & Kitchen,Brand C,12583.09
+PROD1132,Chair,Furniture,Brand A,41888.22
+PROD1133,File Folder,Office Supplies,Brand C,8343.22
+PROD1134,Storage Box,Home & Kitchen,Brand C,73710.01
+PROD1135,Cabinet,Furniture,Brand B,71400.06
+PROD1136,Shoes,Fashion,Brand C,1402.2
+PROD1137,Monitor,Electronics,Brand B,68519.02
+PROD1138,Notebook,Office Supplies,Generic,43238.76
+PROD1139,Headphones,Electronics,Brand D,60137.23
+PROD1140,Headphones,Electronics,Generic,4652.24
+PROD1141,Storage Box,Home & Kitchen,Brand A,302.21
+PROD1142,Printer,Office Supplies,Generic,3117.99
+PROD1143,Desk,Furniture,Brand D,70404.37
+PROD1144,Jacket,Fashion,Brand D,62104.16
+PROD1145,Smartphone,Electronics,Brand B,51548.11
+PROD1146,Backpack,Fashion,Brand B,6217.85
+PROD1147,Monitor,Electronics,Brand D,46032.67
+PROD1148,T-Shirt,Fashion,Brand B,34263.73
+PROD1149,Bookshelf,Furniture,Brand A,9846.09
+PROD1150,Jacket,Fashion,Generic,55584.66
+PROD1151,Watch,Fashion,Brand B,49895.9
+PROD1152,Mixer,Home & Kitchen,Brand B,53532.86
+PROD1153,File Folder,Office Supplies,Brand B,84302.98
+PROD1154,Headphones,Electronics,Generic,30331.34
+PROD1155,Bookshelf,Furniture,Generic,73552.92
+PROD1156,Printer,Office Supplies,Brand D,4081.07
+PROD1157,Cookware,Home & Kitchen,Brand D,10784.11
+PROD1158,Watch,Fashion,Brand A,24684.19
+PROD1159,Notebook,Office Supplies,Brand D,70621.56
+PROD1160,Smartphone,Electronics,Generic,82530.38
+PROD1161,Paper,Office Supplies,Brand A,69580.57
+PROD1162,Shoes,Fashion,Generic,83811.29
+PROD1163,Cookware,Home & Kitchen,Brand A,40460.46
+PROD1164,Headphones,Electronics,Brand D,30557.9
+PROD1165,Printer,Office Supplies,Brand B,4504.54
+PROD1166,Stapler,Office Supplies,Generic,56993.62
+PROD1167,Backpack,Fashion,Generic,75391.27
+PROD1168,Vacuum Cleaner,Home & Kitchen,Brand B,46132.06
+PROD1169,Backpack,Fashion,Brand A,31758.14
+PROD1170,Printer,Office Supplies,Brand A,36902.57
+PROD1171,Lamp,Home & Kitchen,Brand C,45861.69
+PROD1172,Tablet,Electronics,Brand A,38996.64
+PROD1173,Vacuum Cleaner,Home & Kitchen,Brand D,81370.17
+PROD1174,Jacket,Fashion,Generic,24044.46
+PROD1175,Lamp,Home & Kitchen,Generic,54609.62
+PROD1176,Backpack,Fashion,Brand B,379.58
+PROD1177,Monitor,Electronics,Brand B,15546.64
+PROD1178,Bookshelf,Furniture,Brand D,42917.87
+PROD1179,Pen Set,Office Supplies,Brand A,62892.55
+PROD1180,Headphones,Electronics,Generic,40524.75
+PROD1181,Bookshelf,Furniture,Brand D,55917.54
+PROD1182,Paper,Office Supplies,Brand B,35957.28
+PROD1183,Headphones,Electronics,Generic,9882.96
+PROD1184,Vacuum Cleaner,Home & Kitchen,Brand D,42857.45
+PROD1185,Mixer,Home & Kitchen,Brand D,1020.25
+PROD1186,Vacuum Cleaner,Home & Kitchen,Brand C,50385.44
+PROD1187,Cookware,Home & Kitchen,Brand A,70596.48
+PROD1188,Sofa,Furniture,Brand A,3102.23
+PROD1189,Backpack,Fashion,Brand C,67190.8
+PROD1190,Paper,Office Supplies,Generic,67772.7
+PROD1191,Watch,Fashion,Brand A,30915.75
+PROD1192,Vacuum Cleaner,Home & Kitchen,Brand D,71815.36
+PROD1193,Bookshelf,Furniture,Brand D,77747.59
+PROD1194,Mixer,Home & Kitchen,Brand D,39450.97
+PROD1195,Vacuum Cleaner,Home & Kitchen,Brand D,16366.35
+PROD1196,Lamp,Home & Kitchen,Brand D,10144.1
+PROD1197,Tablet,Electronics,Brand B,74761.38
+PROD1198,Cookware,Home & Kitchen,Brand A,69601.56
+PROD1199,Watch,Fashion,Brand D,65963.42
+PROD1200,Pen Set,Office Supplies,Brand A,46154.22
+PROD1201,Paper,Office Supplies,Generic,32330.04
+PROD1202,Paper,Office Supplies,Brand B,65162.59
+PROD1203,Notebook,Office Supplies,Brand A,13910.28
+PROD1204,Vacuum Cleaner,Home & Kitchen,Brand A,59924.09
+PROD1205,Laptop,Electronics,Generic,16882.04
+PROD1206,Pen Set,Office Supplies,Brand C,68954.3
+PROD1207,Sofa,Furniture,Brand C,20985.54
+PROD1208,Shoes,Fashion,Brand D,11814.72
+PROD1209,Laptop,Electronics,Brand C,31686.82
+PROD1210,Jacket,Fashion,Brand A,83706.53
+PROD1211,Chair,Furniture,Brand A,45428.84
+PROD1212,Sofa,Furniture,Brand A,79358.46
+PROD1213,Camera,Electronics,Brand B,72954.71
+PROD1214,T-Shirt,Fashion,Brand C,69894.39
+PROD1215,T-Shirt,Fashion,Brand C,75982.23
+PROD1216,Sofa,Furniture,Generic,23962.87
+PROD1217,T-Shirt,Fashion,Brand B,50691.24
+PROD1218,Chair,Furniture,Brand C,75146.44
+PROD1219,Printer,Office Supplies,Brand C,20291.25
+PROD1220,Jacket,Fashion,Brand B,17679.39
+PROD1221,Laptop,Electronics,Brand A,926.06
+PROD1222,Chair,Furniture,Brand B,24612.01
+PROD1223,Desk,Furniture,Brand C,66069.01
+PROD1224,Cookware,Home & Kitchen,Brand B,6839.41
+PROD1225,Shoes,Fashion,Brand A,8302.06
+PROD1226,Watch,Fashion,Brand A,77720.79
+PROD1227,Cabinet,Furniture,Brand C,18376.45
+PROD1228,File Folder,Office Supplies,Generic,50358.92
+PROD1229,Laptop,Electronics,Brand C,42460.8
+PROD1230,Watch,Fashion,Brand C,38596.84
+PROD1231,Lamp,Home & Kitchen,Brand A,69314.47
+PROD1232,File Folder,Office Supplies,Brand C,59893.03
+PROD1233,Mixer,Home & Kitchen,Brand A,56445.99
+PROD1234,Camera,Electronics,Brand C,26989.11
+PROD1235,Pen Set,Office Supplies,Generic,43024.45
+PROD1236,Watch,Fashion,Brand A,25292.99
+PROD1237,Monitor,Electronics,Generic,7531.5
+PROD1238,Cabinet,Furniture,Brand D,33998.31
+PROD1239,Watch,Fashion,Brand B,73131.64
+PROD1240,Laptop,Electronics,Brand C,19251.18
+PROD1241,Smartphone,Electronics,Brand C,32915.87
+PROD1242,Desk,Furniture,Brand C,43320.85
+PROD1243,T-Shirt,Fashion,Brand C,3157.95
+PROD1244,Laptop,Electronics,Brand A,31244.52
+PROD1245,Notebook,Office Supplies,Brand C,54831.37
+PROD1246,Desk,Furniture,Generic,28862.13
+PROD1247,Smartphone,Electronics,Brand A,14591.71
+PROD1248,Watch,Fashion,Generic,10524.82
+PROD1249,Watch,Fashion,Brand D,67765.51
+PROD1250,Mixer,Home & Kitchen,Brand B,5313.74
+PROD1251,Desk,Furniture,Brand A,40919.53
+PROD1252,File Folder,Office Supplies,Brand B,63137.5
+PROD1253,Mixer,Home & Kitchen,Brand D,36099.32
+PROD1254,Monitor,Electronics,Brand D,23821.98
+PROD1255,Tablet,Electronics,Brand D,41110.94
+PROD1256,Vacuum Cleaner,Home & Kitchen,Brand C,39176.05
+PROD1257,Stapler,Office Supplies,Generic,
+PROD1258,Stapler,Office Supplies,Brand A,452.94
+PROD1259,Storage Box,Home & Kitchen,Brand B,81916.26
+PROD1260,Backpack,Fashion,Brand D,81867.05
+PROD1261,Pen Set,Office Supplies,Generic,69521.58
+PROD1262,Camera,Electronics,Brand B,33749.41
+PROD1263,Paper,Office Supplies,Brand A,23860.35
+PROD1264,Watch,Fashion,Generic,13621.47
+PROD1265,Jacket,Fashion,Brand B,68796.13
+PROD1266,Printer,Office Supplies,Brand D,58963.61
+PROD1267,Storage Box,Home & Kitchen,Brand D,84058.91
+PROD1268,Bookshelf,Furniture,Generic,1356.92
+PROD1269,Chair,Furniture,Generic,16041.41
+PROD1270,Chair,Furniture,Generic,15769.42
+PROD1271,Mixer,Home & Kitchen,Generic,12014.47
+PROD1272,Backpack,Fashion,Brand C,73572.7
+PROD1273,Chair,Furniture,Brand C,25069.91
+PROD1274,Monitor,Electronics,Brand A,78006.44
+PROD1275,Storage Box,Home & Kitchen,Brand C,35333.69
+PROD1276,Vacuum Cleaner,Home & Kitchen,Brand D,65721.72
+PROD1277,Watch,Fashion,Brand D,79546.57
+PROD1278,Printer,Office Supplies,Brand B,28184.96
+PROD1279,Printer,Office Supplies,Brand B,8842.39
+PROD1280,Cookware,Home & Kitchen,Brand B,37408.86
+PROD1281,Sofa,Furniture,Brand D,368.55
+PROD1282,Backpack,Fashion,Brand D,31408.85
+PROD1283,Printer,Office Supplies,Brand C,77232.08
+PROD1284,Headphones,Electronics,Brand A,63185.2
+PROD1285,Watch,Fashion,Generic,76910.2
+PROD1286,Cookware,Home & Kitchen,Generic,49466.86
+PROD1287,Lamp,Home & Kitchen,Brand D,73512.4
+PROD1288,Cabinet,Furniture,Brand B,19896.93
+PROD1289,Printer,Office Supplies,Brand A,71867.09
+PROD1290,Bookshelf,Furniture,Brand C,71739.68
+PROD1291,Smartphone,Electronics,Brand C,66397.75
+PROD1292,Cabinet,Furniture,Generic,66965.18
+PROD1293,Backpack,Fashion,Brand B,30764.87
+PROD1294,Storage Box,Home & Kitchen,Generic,80084.3
+PROD1295,T-Shirt,Fashion,Brand C,39951.15
+PROD1296,Headphones,Electronics,Generic,77578.92
+PROD1297,Vacuum Cleaner,Home & Kitchen,Brand A,76476.66
+PROD1298,Cookware,Home & Kitchen,Generic,80500.19
+PROD1299,Printer,Office Supplies,Brand A,50781.41
+PROD1300,Pen Set,Office Supplies,Brand C,33126.3
+PROD1301,Shoes,Fashion,Brand B,7655.12
+PROD1302,Mixer,Home & Kitchen,Brand D,5429.23
+PROD1303,Watch,Fashion,Brand A,4673.64
+PROD1304,Jacket,Fashion,Brand A,4088.22
+PROD1305,T-Shirt,Fashion,Brand D,34066.32
+PROD1306,Laptop,Electronics,Brand A,32109.84
+PROD1307,Bookshelf,Furniture,Generic,22235.07
+PROD1308,Backpack,Fashion,Brand A,40131.08
+PROD1309,Desk,Furniture,Brand C,8797.3
+PROD1310,Shoes,Fashion,Generic,5917.65
+PROD1311,Smartphone,Electronics,Brand D,55351.05
+PROD1312,Headphones,Electronics,Generic,39990.54
+PROD1313,Mixer,Home & Kitchen,Brand B,14586.72
+PROD1314,File Folder,Office Supplies,Brand B,2851.69
+PROD1315,Shoes,Fashion,Generic,53690.79
+PROD1316,Cabinet,Furniture,Brand B,38907.88
+PROD1317,Lamp,Home & Kitchen,Generic,28688.94
+PROD1318,Mixer,Home & Kitchen,Brand C,73036.57
+PROD1319,Monitor,Electronics,Brand C,56737.21
+PROD1320,Tablet,Electronics,Brand D,49943.02
+PROD1321,Shoes,Fashion,Brand B,70497.74
+PROD1322,Vacuum Cleaner,Home & Kitchen,Brand C,2539.72
+PROD1323,Pen Set,Office Supplies,Generic,36167.46
+PROD1324,File Folder,Office Supplies,Generic,53765.53
+PROD1325,Mixer,Home & Kitchen,Brand B,5889.53
+PROD1326,Vacuum Cleaner,Home & Kitchen,Brand A,72504.46
+PROD1327,Storage Box,Home & Kitchen,Brand B,52262.44
+PROD1328,Camera,Electronics,Brand B,33159.15
+PROD1329,Desk,Furniture,Brand B,79461.3
+PROD1330,T-Shirt,Fashion,Brand B,38906.08
+PROD1331,Printer,Office Supplies,Brand D,66849.58
+PROD1332,Lamp,Home & Kitchen,Brand B,77973.16
+PROD1333,Lamp,Home & Kitchen,Generic,65573.82
+PROD1334,Backpack,Fashion,Brand C,26327.77
+PROD1335,Chair,Furniture,Brand C,31073.48
+PROD1336,Tablet,Electronics,Brand B,53816.01
+PROD1337,Cookware,Home & Kitchen,Brand B,53656.68
+PROD1338,Desk,Furniture,Brand A,44965.26
+PROD1339,Pen Set,Office Supplies,Brand D,12847.64
+PROD1340,Vacuum Cleaner,Home & Kitchen,Generic,75885.11
+PROD1341,Mixer,Home & Kitchen,Brand D,37689.56
+PROD1342,Shoes,Fashion,Brand A,9110.33
+PROD1343,Storage Box,Home & Kitchen,Brand C,3573.99
+PROD1344,Laptop,Electronics,Brand D,
+PROD1345,Watch,Fashion,Brand C,46392.46
+PROD1346,T-Shirt,Fashion,Brand A,79090.03
+PROD1347,Laptop,Electronics,Brand C,8572.83
+PROD1348,Watch,Fashion,Brand D,10840.53
+PROD1349,Camera,Electronics,Brand C,1157.95
+PROD1350,Notebook,Office Supplies,Brand A,56112.62
+PROD1351,Stapler,Office Supplies,Brand A,79922.01
+PROD1352,Backpack,Fashion,Brand D,14898.33
+PROD1353,Jacket,Fashion,Brand C,84422.84
+PROD1354,Sofa,Furniture,Brand C,79933.68
+PROD1355,Vacuum Cleaner,Home & Kitchen,Brand B,14986.64
+PROD1356,Monitor,Electronics,Brand D,10620.19
+PROD1357,Jacket,Fashion,Brand B,66515.48
+PROD1358,Chair,Furniture,Generic,22380.34
+PROD1359,Backpack,Fashion,Brand D,19739.47
+PROD1360,Lamp,Home & Kitchen,Brand B,68865.76
+PROD1361,Sofa,Furniture,Brand B,35513.87
+PROD1362,T-Shirt,Fashion,Brand A,42895.91
+PROD1363,Laptop,Electronics,Brand D,58150.14
+PROD1364,Shoes,Fashion,Brand D,76166.26
+PROD1365,Desk,Furniture,Brand B,51294.79
+PROD1366,Pen Set,Office Supplies,Brand C,38566.84
+PROD1367,Laptop,Electronics,Brand B,67817.95
+PROD1368,Pen Set,Office Supplies,Brand A,75142.4
+PROD1369,Lamp,Home & Kitchen,Brand C,54552.61
+PROD1370,Laptop,Electronics,Generic,1153.26
+PROD1371,Camera,Electronics,Brand A,3926.8
+PROD1372,Jacket,Fashion,Brand C,65289.45
+PROD1373,Paper,Office Supplies,Brand A,24235.03
+PROD1374,Cabinet,Furniture,Generic,45245.37
+PROD1375,Jacket,Fashion,Brand C,6982.35
+PROD1376,Chair,Furniture,Generic,44258.96
+PROD1377,Jacket,Fashion,Generic,77797.46
+PROD1378,Jacket,Fashion,Brand B,69922.08
+PROD1379,Desk,Furniture,Brand C,80573.36
+PROD1380,Watch,Fashion,Brand A,80331.65
+PROD1381,Tablet,Electronics,Brand A,44468.44
+PROD1382,Bookshelf,Furniture,Brand A,76245.59
+PROD1383,Paper,Office Supplies,Brand B,78467.68
+PROD1384,Watch,Fashion,Brand A,77817.4
+PROD1385,Camera,Electronics,Brand B,
+PROD1386,Lamp,Home & Kitchen,Brand C,83782.32
+PROD1387,Storage Box,Home & Kitchen,Brand C,83003.69
+PROD1388,Mixer,Home & Kitchen,Brand A,5900.79
+PROD1389,Lamp,Home & Kitchen,Brand B,43542.62
+PROD1390,Smartphone,Electronics,Generic,11044.29
+PROD1391,Notebook,Office Supplies,Brand B,14457.65
+PROD1392,Stapler,Office Supplies,Brand A,52648.15
+PROD1393,Sofa,Furniture,Generic,29819.23
+PROD1394,Pen Set,Office Supplies,Brand D,59601.65
+PROD1395,Headphones,Electronics,Generic,
+PROD1396,Shoes,Fashion,Brand C,41082.72
+PROD1397,Backpack,Fashion,Brand D,44507.68
+PROD1398,Cookware,Home & Kitchen,Generic,8419.73
+PROD1399,Jacket,Fashion,Brand C,47884.29
+PROD1400,Mixer,Home & Kitchen,Generic,25981.16
+PROD1401,Cookware,Home & Kitchen,Brand C,66005.83
+PROD1402,Vacuum Cleaner,Home & Kitchen,Generic,63439.77
+PROD1403,Stapler,Office Supplies,Brand D,42263.64
+PROD1404,Laptop,Electronics,Brand B,25565.96
+PROD1405,Printer,Office Supplies,Brand C,28151.4
+PROD1406,Notebook,Office Supplies,Brand C,17186.89
+PROD1407,Camera,Electronics,Generic,83905.77
+PROD1408,Mixer,Home & Kitchen,Brand C,1464.15
+PROD1409,File Folder,Office Supplies,Brand A,1080.71
+PROD1410,Paper,Office Supplies,Brand C,46078.66
+PROD1411,Mixer,Home & Kitchen,Brand B,28339.94
+PROD1412,Cabinet,Furniture,Brand B,54910.13
+PROD1413,Mixer,Home & Kitchen,Brand A,12928.18
+PROD1414,Bookshelf,Furniture,Generic,58222.85
+PROD1415,Printer,Office Supplies,Generic,21557.47
+PROD1416,T-Shirt,Fashion,Brand D,8641.41
+PROD1417,Bookshelf,Furniture,Brand A,21435.85
+PROD1418,Notebook,Office Supplies,Brand B,12748.61
+PROD1419,Camera,Electronics,Brand B,52740.55
+PROD1420,Storage Box,Home & Kitchen,Brand B,41757.18
+PROD1421,Cookware,Home & Kitchen,Generic,73740.14
+PROD1422,Backpack,Fashion,Brand A,23241.62
+PROD1423,Bookshelf,Furniture,Brand B,66412.99
+PROD1424,Camera,Electronics,Brand C,26556.64
+PROD1425,Headphones,Electronics,Generic,26491.52
+PROD1426,Watch,Fashion,Generic,57519.03
+PROD1427,Watch,Fashion,Brand A,45005.05
+PROD1428,Jacket,Fashion,Generic,79500.95
+PROD1429,Lamp,Home & Kitchen,Generic,42522.37
+PROD1430,Desk,Furniture,Brand C,59153.21
+PROD1431,Watch,Fashion,Brand D,5511.83
+PROD1432,Jacket,Fashion,Brand B,17867.31
+PROD1433,File Folder,Office Supplies,Brand A,10843.42
+PROD1434,Chair,Furniture,Brand B,57688.42
+PROD1435,Stapler,Office Supplies,Generic,46957.97
+PROD1436,Bookshelf,Furniture,Brand B,77869.83
+PROD1437,Laptop,Electronics,Brand D,69738.87
+PROD1438,Smartphone,Electronics,Generic,
+PROD1439,Desk,Furniture,Generic,72992.05
+PROD1440,Tablet,Electronics,Brand D,68776.24
+PROD1441,Backpack,Fashion,Brand B,49485.77
+PROD1442,Lamp,Home & Kitchen,Brand B,12561.58
+PROD1443,Notebook,Office Supplies,Brand A,2638.23
+PROD1444,Pen Set,Office Supplies,Brand B,69778.7
+PROD1445,Laptop,Electronics,Brand C,56715.02
+PROD1446,Backpack,Fashion,Brand B,51354.88
+PROD1447,Stapler,Office Supplies,Brand C,27672.37
+PROD1448,Tablet,Electronics,Brand A,34940.29
+PROD1449,Printer,Office Supplies,Brand C,22162.86
+PROD1450,File Folder,Office Supplies,Brand D,60237.82
+PROD1451,Vacuum Cleaner,Home & Kitchen,Brand D,9564.23
+PROD1452,Stapler,Office Supplies,Brand A,79323.6
+PROD1453,Shoes,Fashion,Brand B,25899.74
+PROD1454,Lamp,Home & Kitchen,Brand C,44347.9
+PROD1455,Camera,Electronics,Generic,71474.89
+PROD1456,Printer,Office Supplies,Brand D,24965.36
+PROD1457,Tablet,Electronics,Generic,25580.92
+PROD1458,Shoes,Fashion,Brand A,52009.83
+PROD1459,Sofa,Furniture,Brand C,69702.48
+PROD1460,Backpack,Fashion,Brand D,24565.46
+PROD1461,Watch,Fashion,Brand B,34503.2
+PROD1462,Shoes,Fashion,Brand A,41676.64
+PROD1463,File Folder,Office Supplies,Brand A,81107.06
+PROD1464,Lamp,Home & Kitchen,Brand C,61260.77
+PROD1465,Smartphone,Electronics,Brand A,47348.84
+PROD1466,Tablet,Electronics,Generic,830.23
+PROD1467,Storage Box,Home & Kitchen,Brand C,77073.01
+PROD1468,Stapler,Office Supplies,Generic,62599.49
+PROD1469,Monitor,Electronics,Brand A,55514.34
+PROD1470,Watch,Fashion,Brand D,57393.6
+PROD1471,Stapler,Office Supplies,Generic,77911.93
+PROD1472,Tablet,Electronics,Brand D,
+PROD1473,Cookware,Home & Kitchen,Brand D,13355.14
+PROD1474,Bookshelf,Furniture,Brand C,32385.88
+PROD1475,Monitor,Electronics,Generic,14536.37
+PROD1476,Monitor,Electronics,Brand A,81602.67
+PROD1477,Cabinet,Furniture,Brand B,65076.26
+PROD1478,File Folder,Office Supplies,Brand C,50288.65
+PROD1479,T-Shirt,Fashion,Brand A,15943.23
+PROD1480,Lamp,Home & Kitchen,Generic,44589.71
+PROD1481,Smartphone,Electronics,Generic,28013.19
+PROD1482,Storage Box,Home & Kitchen,Brand A,64367.71
+PROD1483,Mixer,Home & Kitchen,Brand A,53277.7
+PROD1484,Watch,Fashion,Brand B,17507.6
+PROD1485,File Folder,Office Supplies,Brand C,30298.2
+PROD1486,Mixer,Home & Kitchen,Brand C,12952.56
+PROD1487,Stapler,Office Supplies,Brand C,69012.48
+PROD1488,T-Shirt,Fashion,Brand A,58629.93
+PROD1489,Monitor,Electronics,Brand D,44333.63
+PROD1490,Bookshelf,Furniture,Generic,74843.24
+PROD1491,Notebook,Office Supplies,Brand A,63138.04
+PROD1492,Vacuum Cleaner,Home & Kitchen,Generic,18595.74
+PROD1493,Storage Box,Home & Kitchen,Brand B,45736.79
+PROD1494,Storage Box,Home & Kitchen,Generic,46217.67
+PROD1495,Monitor,Electronics,Brand A,80813.42
+PROD1496,T-Shirt,Fashion,Brand A,24890.07
+PROD1497,Chair,Furniture,Brand C,4831.9
+PROD1498,T-Shirt,Fashion,Brand C,3518.22
+PROD1499,Paper,Office Supplies,Brand C,74777.38
